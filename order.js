@@ -78,9 +78,9 @@ function buildCard (id, imageSrc, imageAlt, titleText, price, cardText) {
 // Build Food and Drink Cards
 
 //Fetch Data From Website
-const pizzaData = 'https://w3stu.cs.jmu.edu/lapraddx/CS%20343%20Project/Menu/pizza.json';
-const appetizerData = 'https://w3stu.cs.jmu.edu/lapraddx/CS%20343%20Project/Menu/appetizer.json';
-const drinkData = 'https://w3stu.cs.jmu.edu/lapraddx/CS%20343%20Project/Menu/drink.json';
+const pizzaData = './Menu/pizza.json';
+const appetizerData = './Menu/appetizer.json';
+const drinkData = './Menu/drink.json';
 
 async function buildSection(data) {
 	const dataFetch = await fetch(data);
