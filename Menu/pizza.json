@@ -1,0 +1,50 @@
+[
+    {
+      "id": "a",
+      "image": "Images/FoodItems/Cheese.png",
+      "name": "Cheese Pizza",
+      "altName": "Cheese Pizza",
+      "price": 11.70,
+      "description": "The Original Classic Cheese, Only Difference Is It's From The Jungle"
+    },
+    {
+      "id": "b",
+      "image": "Images/FoodItems/Pepperoni.png",
+      "name": "Pepperoni Pizza",
+      "altName": "Pepperoni Pizza",
+      "price": 12.00,
+      "description": "A Subtle Zoo-ey Twist On Everyone's Favorite Pepperoni"
+    },
+    {
+      "id": "c",
+      "image": "Images/FoodItems/BBQChicken.png",
+      "name": "BBQ Chicken Pizza",
+      "altName": "BBQ Chicken Pizza",
+      "price": 14.35,
+      "description": "A Delicious Blend Of Fresh House Grilled Chicken And Tangy BBQ Sauce"
+    },
+    {
+      "id": "d",
+      "image": "Images/FoodItems/Hamburger.png",
+      "name": "Hamburger Pizza",
+      "altName": "Hamburger Pizza",
+      "price": 13.30,
+      "description": "One American Classic MEATS Another, Fresh Cheddar + Burger Bits"
+    },
+    {
+      "id": "e",
+      "image": "Images/FoodItems/HamPineapple.png",
+      "name": "Ham and Pineapple Pizza",
+      "altName": "Hawaiian Pizza",
+      "price": 13.30,
+      "description": "A Dream Tropical Vacation For Your Mouth"
+    },
+    {
+      "id": "f",
+      "image": "Images/FoodItems/BaconSausageHamMeatballGreenPeppers.png",
+      "name": "Bacon Sausage Ham Meatball Green Pepper Pizza",
+      "altName": "King Gorillas Special",
+      "price": 15.10,
+      "description": "Bacon, Meatball, Ham, Sausage and Green Peppers To Beat Your Chest To"
+    }
+]

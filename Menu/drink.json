@@ -1,0 +1,18 @@
+[
+    {
+        "id": "j",
+        "image": "Images/FoodItems/DrKelp.png",
+        "name": "Dr. Kelp",
+        "altName": "Dr. Kelp",
+        "price": 3.70,
+        "description": "The King Of The Jungles Choice Of Beverage"
+    },
+    {
+        "id": "k",
+        "image": "Images/FoodItems/DietDrKelp.png",
+        "name": "Diet Dr. Kelp",
+        "altName": "Diet Dr. Kelp",
+        "price": 4.00,
+        "description": "The Zoo's Finest, Usually Preferred Over Water"
+    }
+]

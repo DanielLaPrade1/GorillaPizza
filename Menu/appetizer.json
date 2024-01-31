@@ -1,0 +1,26 @@
+[
+    {
+        "id": "g",
+        "image": "Images/FoodItems/GarlicKnots.png",
+        "name": "Garlic Knots",
+        "altName": "Garlic Knots",
+        "price": 7.50,
+        "description": "Delicious Garlic Bread Knotted Like The Vines Of The Jungle"
+    },
+    {
+        "id": "h",
+        "image": "Images/FoodItems/JalepenoPoppers.png",
+        "name": "Jalapeno Poppers",
+        "altName": "Jalapeno Poppers",
+        "price": 8.00,
+        "description": "OOOH OOOH AHHH AHHH Very Spicy! Jalapenos Stuffed With Cream Cheese"
+    },
+    {
+        "id": "i",
+        "image": "Images/FoodItems/CheesyBreadsticks.png",
+        "name": "Cheesy Breadsticks",
+        "altName": "Cheesy Breadsticks",
+        "price": 8.00,
+        "description": "Cheesy Delicious French Bread Cooked To Perfection And Slathered With Cheese"
+    }
+]
