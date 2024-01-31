@@ -78,9 +78,9 @@ function buildCard (id, imageSrc, imageAlt, titleText, price, cardText) {
 // Build Food and Drink Cards
 
 //Fetch Data From Website
-const pizzaData = './Menu/pizza.json';
-const appetizerData = './Menu/appetizer.json';
-const drinkData = './Menu/drink.json';
+const pizzaData = 'https://gorilla-pizza.vercel.app/Menu/pizza.json';
+const appetizerData = 'https://gorilla-pizza.vercel.app/Menu/appetizer.json';
+const drinkData = 'https://gorilla-pizza.vercel.app/Menu/drink.json';
 
 async function buildSection(data) {
 	const dataFetch = await fetch(data);
